@@ -1,6 +1,10 @@
 ### Hello World 👋
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HoeSeong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
+<p align='center'>
+✉️Email✉️ <br>
+moonn9389@gmail.com
+</p>
 <br>
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
