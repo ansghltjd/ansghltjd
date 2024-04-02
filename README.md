@@ -24,14 +24,18 @@ moonn9389@gmail.com
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>  
+
+
+<br>
+<br>
+
+<div align='center'>
   
-
-
-<br>
-<br>
-
 ![ansghltjd's github stats](https://github-readme-stats.vercel.app/api?username=ansghltjd&show_icons=true) 
 [![ansghltjd's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansghltjd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ansghltjd)
 
+<div/>
+  
 <br>
-</p>
+
