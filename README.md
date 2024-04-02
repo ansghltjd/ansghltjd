@@ -1,9 +1,13 @@
 ### Hello World 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HoeSeong%20Mun&fontSize=90)
-
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HoeSeong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align='center'>
+  반갑습니다<br>
+  제 이름은 문회성이 백엔드를 공부하고 있어요!
+</p>
 
 
 <p align="center">
@@ -14,6 +18,13 @@
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  
 </p>
 
+<br>
+<br>
 
+![ansghltjd's github stats](https://github-readme-stats.vercel.app/api?username=ansghltjd&show_icons=true) 
+[![ansghltjd's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ansghltjd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ansghltjd)
+
+<br>
