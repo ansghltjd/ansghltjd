@@ -1,5 +1,5 @@
 ### Hello World 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HeoSeong%20Mun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HoeSeong%20Mun&fontSize=90)
 
 
   
