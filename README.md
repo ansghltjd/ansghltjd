@@ -6,13 +6,14 @@
 moonn9389@gmail.com
 </p>
 <br>
-  
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align='center'>
+  <p align='center'>
   반갑습니다<br>
   제 이름은 문회성이고 백엔드를 공부하고 있어요!
 </p>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+
 
 <br>
 
